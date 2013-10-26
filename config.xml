@@ -37,21 +37,4 @@
     <plugin name="InAppBrowser" value="org.apache.cordova.InAppBrowser"/>
 </plugins>
 
-<feature name="Camera">
-    <param name="android-package" value="org.apache.cordova.CameraLauncher" />
-</feature>
-
-<feature name="Camera">
-    <param name="blackberry-package" value="org.apache.cordova.camera.Camera" />
-</feature>
-
-<feature name="Camera">
-    <param name="ios-package" value="CDVCamera" />
-</feature>
-
-<Capabilities>
-    <Capability Name="ID_CAP_ISV_CAMERA" />
-    <Capability Name="ID_HW_FRONTCAMERA" />
-</Capabilities>
-
 </widget>

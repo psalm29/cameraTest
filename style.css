@@ -1,0 +1,6 @@
+@charset "utf-8";
+#image {
+	border-radius: 11px;
+	border: #CCC 3px solid;
+	display: none;
+}
